@@ -1,0 +1,9 @@
+-- Configuração do GIT
+git config --global user.name wagnerguimaraesdesigner
+git config --global user.email wagnerguimaraesdesigner@gmail.com
+
+
+
+Para iniciar o projeto web
+
+npx expo start --web
